@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+}
+
+body {
+  font-size: 14px;
+  font-family: Tahoma, Arial, sans-serif;
+  background: #f1f1f1;
+}
+
+.meme-finder {
+  padding: 15px;
+}
+
+.meme-finder h1 {
+  margin-bottom: 5px;
+  line-height: 1.4em;
+}
